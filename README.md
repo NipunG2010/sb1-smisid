@@ -69,11 +69,12 @@ npm run dev
 
 # Build for production
 npm run build
+```
 
 
 ## 🔒 Privacy Policy
 
-[Link to your privacy policy]
+https://www.termsfeed.com/live/df99c110-8ef7-4b38-8fc5-4f7e07eccf6f
 
 ---
 
