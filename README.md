@@ -80,3 +80,4 @@ https://www.termsfeed.com/live/df99c110-8ef7-4b38-8fc5-4f7e07eccf6f
 
 © 2024 Bombay SEO Company. All rights reserved.
 ```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de164579-b98b-4bc8-aa30-293c93968c9e/deploy-status)](https://app.netlify.com/sites/bombayseocompany/deploys)
